@@ -1,0 +1,8 @@
+
+
+El maximo de vocales mayusculas: (0)  y la palabra es:   (x.@) 
+El minimo de mayusculas: (0) y la palabra es:    (hola) 
+
+
+El maximo de vocales mayusculas: (0)  y la palabra es:   (x.@) 
+El minimo de mayusculas: (0) y la palabra es:    (paleta) 
